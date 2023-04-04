@@ -27,3 +27,5 @@ If you want to contact me, here are some ways to get in touch:
 - Email [glick@glick.cloud](mailto:glick@glick.cloud)
 - Twitter [@glennbick](https://twitter.com/glennbick)
 - LinkedIn (I very rarely check it)[https://linkedin.com/in/benjamin-glick]
+
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benhg)](https://github.com/anuraghazra/github-readme-stats)
