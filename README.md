@@ -4,7 +4,7 @@
 
 I am a software engineer and researcher primarily interested in the intersection of computation and science. Some of the most interesting things I've been able to do are helping domain scientists meet their computational needs. Much of the public work I've done has to do with making computational scientific resources easier to access and utilize in order to streamline the process of computation-based science. 
 
-Regarding computers, I am interested in distributed systems, novel hardware architectures (especially accelerators), high-performance computing and networking, and operating systems. Other academic interests  interests include solid-state physics and thermodynamics, high-performance computing and parallelism, cloud and grid computing, discrete mathematics and combinatorics, and linear algebra. Outside of work, I enjoy flying airplanes, cooking (and consuming) food, and cycling.
+Regarding computers, I am interested in distributed systems, novel hardware architectures (especially accelerators), high-performance computing and networking, and operating systems. Other academic interests  interests include solid-state physics and thermodynamics, high-performance computing and parallelism, cloud and grid computing, discrete mathematics and combinatorics, and linear algebra. Outside of work, I enjoy flying airplanes, cooking (and consuming) food, ham radio, and various sports.
 
 #### My Work
 
@@ -12,7 +12,7 @@ In general, my work has boiled down to three things - OS/Accelerator development
 
 I have experience everywhere from programming low-level custom hardware to high-level system management and interaction software. I am passionate about making cutting-edge systems accessible to everyone, regardless of their experience levels. I enjoy guiding systems through all phases of their life cycle, from hardware procurement to sustained operation and long-term support. 
 
-As a day job, I work at a chip startup (can't publicly share too many details), where I work on a high-performance runtime environment for a novel accelerator architecture. Please get in touch if you have questions (again, I can't publicly share very much). 
+As a day job, I work as an OS engineer at SambaNova Systems. I work across a broad variety of OS-related topics, including virtualization, fault management, distributed ML, kernel drivers, and hardware/software co-design.
 
 Most of my research has had to do with making scientific workflows more efficient and easy to operate, in order to help make domain scientists' computational lives easier. I have worked in several domains, including bioinformatics, computational phylogenetics, and quantum chromodynamics. Some of the code I have written for those applications is right here on my GitHub. Additionally, (almost) all of my publications are listed on [my website](https://glick.cloud/research.html).
 
