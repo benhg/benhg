@@ -1,5 +1,3 @@
-### Hi there 👋. I'm Ben Glick 
-
 #### About Me
 
 I am a hardware/software architect, engineer, and researcher primarily interested in the intersection of computation and science. Some of the most interesting things I've been able to do are helping domain scientists meet their computational needs. Much of the public work I've done has to do with making computational scientific resources easier to access and utilize in order to streamline the process of computation-based science. I am a senior software engineer at NVIDIA, where I work on GPU Communications.
